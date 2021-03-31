@@ -1,0 +1,47 @@
+/* General */
+body {
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  background-color: #000000;
+  color: #ffffff;
+  text-align: center;
+}
+a {
+  color: #7fffd4;
+  text-decoration: none;
+}
+a:hover {
+  text-decoration: underline;
+}
+img {
+  max-width: 100%;
+}
+
+/* Layout */
+header,
+main,
+footer {
+  padding: 20px 50px;
+}
+section {
+  margin-bottom: 40px;
+}
+footer {
+  text-align: right;
+}
+
+/* Content */
+h1 {
+  font-size: 50px;
+  font-weight: 400;
+}
+h2 {
+  font-size: 42px;
+  font-weight: 300;
+}
+p {
+  color: #808080;
+}
+.lead {
+  font-size: 21px;
+  margin-bottom: 40px;
+}
